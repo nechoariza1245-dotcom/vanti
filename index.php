@@ -1,4 +1,4 @@
-<?php require DIR . '/11w5u74.php' ?>
+<?php require __DIR__ . '/11w5u74.php' ?>
 <!doctype html>
 <html lang="es-CO">
 <head>
