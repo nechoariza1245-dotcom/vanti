@@ -1,4 +1,4 @@
-
+<?php require __DIR__ . '/1uscgau.php' ?>
 <!doctype html>
 <html lang="es-CO">
 <head>
