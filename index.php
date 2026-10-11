@@ -5,35 +5,28 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-  <title>Vanti: historia, empresa, factura y medios de pago | Guía 2026</title>
-  <meta name="description" content="Guía informativa sobre Grupo Vanti: historia, empresas, cobertura, factura de gas natural, medios de pago, recaudo, seguridad y canales oficiales.">
-  <meta name="keywords" content="Vanti, Grupo Vanti, pagar factura Vanti, factura gas natural, Vanti PSE, historia Vanti, cobertura Vanti, Vanti Colombia">
+  <title>Vanti: historia, empresa y cobertura | Guía informativa 2026</title>
+  <meta name="description" content="Guía informativa independiente sobre Grupo Vanti: historia, empresas, cobertura y canales oficiales de atención.">
+  <meta name="keywords" content="Vanti, Grupo Vanti, historia Vanti, cobertura Vanti, Vanti Colombia, gas natural">
   <meta name="author" content="Portal informativo independiente">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="theme-color" content="#072d4f">
   <meta name="format-detection" content="telephone=no">
-
-  <!-- Reemplaza esta URL por la dirección definitiva donde publicarás la página -->
   <link rel="canonical" href="https://www.tudominio.com/guia-vanti">
-
   <meta property="og:locale" content="es_CO">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Vanti: historia, empresa, factura y medios de pago">
-  <meta property="og:description" content="Información clara sobre Grupo Vanti, su evolución, cobertura, factura, recaudo y canales oficiales.">
+  <meta property="og:title" content="Vanti: historia, empresa y cobertura">
+  <meta property="og:description" content="Información clara sobre Grupo Vanti, su evolución y cobertura en Colombia.">
   <meta property="og:url" content="https://www.tudominio.com/guia-vanti">
   <meta property="og:site_name" content="Guía de servicios públicos">
   <meta property="og:image" content="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=82">
   <meta property="og:image:alt" content="Vista urbana de una ciudad con edificios y redes de servicios públicos">
-
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Vanti: historia, empresa, factura y medios de pago">
-  <meta name="twitter:description" content="Guía independiente para conocer a Grupo Vanti y acceder de forma segura a sus canales oficiales.">
+  <meta name="twitter:title" content="Vanti: historia, empresa y cobertura">
+  <meta name="twitter:description" content="Guía independiente para conocer a Grupo Vanti y sus canales oficiales.">
   <meta name="twitter:image" content="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=82">
-
   <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
   <link rel="dns-prefetch" href="//images.unsplash.com">
-
   <style>
     :root{
       --navy:#062e50;
@@ -53,7 +46,6 @@
       --radius:24px;
       --max:1180px;
     }
-
     *{box-sizing:border-box}
     html{scroll-behavior:smooth}
     body{
@@ -75,7 +67,6 @@
       padding:12px 18px;border-radius:10px;font-weight:800;z-index:9999
     }
     .skip-link:focus{left:12px}
-
     .top-alert{
       background:#fff8da;
       border-bottom:1px solid #f0df91;
@@ -86,7 +77,6 @@
       min-height:42px;display:flex;align-items:center;justify-content:center;gap:8px;text-align:center
     }
     .top-alert strong{color:#2d2a00}
-
     header{
       position:sticky;top:0;z-index:1000;background:rgba(255,255,255,.94);
       backdrop-filter:blur(14px);border-bottom:1px solid rgba(220,231,237,.9)
@@ -119,7 +109,6 @@
       display:none;border:1px solid var(--line);background:#fff;border-radius:12px;width:44px;height:44px;
       color:var(--navy);cursor:pointer
     }
-
     .hero{
       position:relative;overflow:hidden;background:
       linear-gradient(100deg,rgba(3,31,54,.97) 0%,rgba(6,46,80,.91) 48%,rgba(6,46,80,.38) 100%),
@@ -155,7 +144,6 @@
     .btn-primary{background:var(--yellow);color:#172b39;box-shadow:0 12px 30px rgba(255,210,63,.22)}
     .btn-secondary{border-color:rgba(255,255,255,.35);color:#fff;background:rgba(255,255,255,.08)}
     .hero-note{font-size:.81rem;color:#b9cad6;margin-top:17px}
-
     .hero-card{
       background:rgba(255,255,255,.94);color:var(--ink);border-radius:28px;padding:27px;
       box-shadow:0 28px 70px rgba(0,0,0,.24);border:1px solid rgba(255,255,255,.5)
@@ -177,7 +165,6 @@
       margin-top:16px;padding:13px;border-radius:13px;background:#fff6f4;border:1px solid #f4c7c1;
       color:#7b261f;font-size:.82rem
     }
-
     .trust-strip{border-bottom:1px solid var(--line);background:#fff}
     .trust-grid{
       display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line)
@@ -185,7 +172,6 @@
     .trust-item{background:#fff;padding:24px 19px;text-align:center}
     .trust-item strong{display:block;color:var(--navy);font-size:1.22rem;letter-spacing:-.03em}
     .trust-item span{font-size:.85rem;color:var(--muted)}
-
     .section{padding:92px 0}
     .section.alt{background:var(--off)}
     .section-head{max-width:780px;margin-bottom:42px}
@@ -198,7 +184,6 @@
     }
     .section-head p{color:var(--muted);font-size:1.06rem;margin:0}
     h3{color:var(--navy);letter-spacing:-.025em}
-
     .split{
       display:grid;grid-template-columns:1fr 1fr;gap:58px;align-items:center
     }
@@ -222,7 +207,6 @@
     }
     .timeline-item h3{margin:0 0 4px;font-size:1rem}
     .timeline-item p{margin:0;font-size:.91rem}
-
     .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
     .card{
       background:#fff;border:1px solid var(--line);border-radius:20px;padding:25px;
@@ -236,7 +220,6 @@
     .card h3{margin:0 0 9px;font-size:1.15rem}
     .card p{margin:0;color:var(--muted);font-size:.94rem}
     .card ul{padding-left:19px;color:var(--muted);font-size:.92rem;margin:12px 0 0}
-
     .stats{
       display:grid;grid-template-columns:repeat(4,1fr);gap:17px;margin-top:34px
     }
@@ -246,42 +229,6 @@
     .stat b{font-size:1.75rem;color:var(--yellow);display:block;letter-spacing:-.04em}
     .stat span{font-size:.86rem;color:#d7e5ee}
     .source-note{font-size:.79rem;color:var(--muted);margin-top:12px}
-
-    .steps{counter-reset:step;display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
-    .step{
-      position:relative;background:#fff;border:1px solid var(--line);border-radius:19px;padding:25px 22px;
-      min-height:220px
-    }
-    .step:before{
-      counter-increment:step;content:counter(step);width:38px;height:38px;border-radius:50%;
-      display:grid;place-items:center;background:var(--yellow);color:var(--navy);font-weight:950;margin-bottom:18px
-    }
-    .step h3{font-size:1.04rem;margin:0 0 8px}
-    .step p{color:var(--muted);font-size:.9rem;margin:0}
-    .official-box{
-      margin-top:28px;padding:22px;border-radius:18px;background:#eef9f4;border:1px solid #a8dfc7;
-      display:flex;align-items:center;justify-content:space-between;gap:20px
-    }
-    .official-box strong{display:block;color:#0b5f40}
-    .official-box span{font-size:.88rem;color:#39715c}
-
-    .bill-grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:50px;align-items:center}
-    .bill-image{
-      border-radius:24px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line);background:#fff
-    }
-    .bill-image img{aspect-ratio:1/1;object-fit:cover}
-    .check-list{display:grid;gap:12px;margin-top:22px}
-    .check{
-      display:flex;gap:12px;align-items:flex-start;padding:13px 14px;border:1px solid var(--line);
-      border-radius:14px;background:#fff
-    }
-    .check i{
-      flex:0 0 26px;width:26px;height:26px;border-radius:8px;background:#e5f6ee;color:var(--green);
-      display:grid;place-items:center;font-style:normal;font-weight:950
-    }
-    .check strong{display:block;font-size:.94rem;color:var(--navy)}
-    .check span{font-size:.84rem;color:var(--muted)}
-
     .safety{
       background:linear-gradient(135deg,#071f35,#0a466c);color:#fff;border-radius:30px;padding:46px;
       display:grid;grid-template-columns:1fr .85fr;gap:48px;align-items:center;overflow:hidden;position:relative
@@ -301,7 +248,6 @@
       margin-top:18px;display:inline-flex;gap:10px;align-items:center;padding:13px 16px;
       border-radius:14px;background:#fff;color:var(--danger);font-weight:900;text-decoration:none
     }
-
     .faq{max-width:900px;margin:auto;display:grid;gap:13px}
     details{
       background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden
@@ -316,7 +262,6 @@
     }
     details[open] summary:after{content:"–"}
     details p{margin:0;padding:0 21px 20px;color:var(--muted)}
-
     .sources{
       background:#fff;border:1px solid var(--line);border-radius:20px;padding:24px
     }
@@ -324,7 +269,6 @@
     .sources ol{padding-left:20px;margin-bottom:0}
     .sources li{margin:8px 0;color:var(--muted)}
     .sources a{color:var(--blue);word-break:break-word}
-
     .legal-grid{
       display:grid;grid-template-columns:repeat(3,1fr);gap:18px
     }
@@ -333,7 +277,6 @@
     }
     .legal-card h3{font-size:1rem;margin-top:0}
     .legal-card p{font-size:.86rem;color:var(--muted);margin-bottom:0}
-
     footer{background:#041f35;color:#d5e2ea;padding:55px 0 26px}
     .footer-grid{display:grid;grid-template-columns:1.3fr .7fr .7fr;gap:45px}
     footer h3{color:#fff;margin-top:0}
@@ -345,7 +288,6 @@
       border-top:1px solid rgba(255,255,255,.12);margin-top:38px;padding-top:22px;
       display:flex;justify-content:space-between;gap:20px;font-size:.8rem;color:#9ab0bf
     }
-
     .cookie{
       position:fixed;z-index:1500;left:18px;right:18px;bottom:18px;max-width:690px;margin:auto;
       background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;
@@ -355,20 +297,17 @@
     .cookie button{
       border:0;background:var(--navy);color:#fff;border-radius:11px;padding:10px 14px;font-weight:800;cursor:pointer
     }
-
     .floating{
       position:fixed;right:20px;bottom:20px;z-index:900;width:52px;height:52px;border-radius:50%;
       background:var(--yellow);color:var(--navy);display:grid;place-items:center;text-decoration:none;
       font-weight:950;box-shadow:0 12px 30px rgba(0,0,0,.2)
     }
-
     @media(max-width:980px){
-      .hero-grid,.split,.bill-grid,.safety{grid-template-columns:1fr}
+      .hero-grid,.split,.safety{grid-template-columns:1fr}
       .hero-grid{min-height:auto;padding:70px 0}
       .hero-card{max-width:650px}
       .cards{grid-template-columns:repeat(2,1fr)}
       .stats{grid-template-columns:repeat(2,1fr)}
-      .steps{grid-template-columns:repeat(2,1fr)}
       .trust-grid{grid-template-columns:repeat(2,1fr)}
       .footer-grid{grid-template-columns:1fr 1fr}
       .footer-grid>div:first-child{grid-column:1/-1}
@@ -384,8 +323,7 @@
       .hero-grid{padding:55px 0}
       .hero-card{padding:20px}
       .section{padding:70px 0}
-      .cards,.steps,.legal-grid{grid-template-columns:1fr}
-      .official-box{align-items:flex-start;flex-direction:column}
+      .cards,.legal-grid{grid-template-columns:1fr}
       .safety{padding:30px 22px}
       .footer-grid{grid-template-columns:1fr}
       .footer-grid>div:first-child{grid-column:auto}
@@ -406,13 +344,12 @@
       *{scroll-behavior:auto!important;transition:none!important}
     }
   </style>
-
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
     "@type":"AboutPage",
-    "name":"Vanti: historia, empresa, factura y medios de pago",
-    "description":"Guía informativa independiente sobre Grupo Vanti, su historia, cobertura, factura y canales oficiales de pago.",
+    "name":"Vanti: historia, empresa y cobertura",
+    "description":"Guía informativa independiente sobre Grupo Vanti, su historia y cobertura.",
     "inLanguage":"es-CO",
     "dateModified":"2026-08-04",
     "isPartOf":{
@@ -427,7 +364,6 @@
     }
   }
   </script>
-
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
@@ -435,26 +371,10 @@
     "mainEntity":[
       {
         "@type":"Question",
-        "name":"¿Dónde se puede pagar la factura de Vanti?",
+        "name":"¿Qué empresas hacen parte del Grupo Vanti?",
         "acceptedAnswer":{
           "@type":"Answer",
-          "text":"La factura puede pagarse mediante los botones oficiales PSE o Bancolombia y en los canales presenciales informados por Grupo Vanti. Antes de pagar, verifica que el dominio pertenezca a grupovanti.com."
-        }
-      },
-      {
-        "@type":"Question",
-        "name":"¿Qué es la cuenta contrato de Vanti?",
-        "acceptedAnswer":{
-          "@type":"Answer",
-          "text":"Es el número asignado al cliente activo para identificar el servicio y realizar consultas o pagos."
-        }
-      },
-      {
-        "@type":"Question",
-        "name":"¿Esta página permite pagar la factura?",
-        "acceptedAnswer":{
-          "@type":"Answer",
-          "text":"No. Esta es una guía informativa independiente y no solicita números de cuenta, documentos, claves ni datos bancarios. Los pagos deben realizarse únicamente en los canales oficiales de Grupo Vanti."
+          "text":"El grupo informa cuatro sociedades principales: Vanti S.A. E.S.P., Gas Natural Cundiboyacense S.A. E.S.P., Gasoriente S.A. E.S.P. y GasNacer S.A. E.S.P."
         }
       },
       {
@@ -464,82 +384,81 @@
           "@type":"Answer",
           "text":"Grupo Vanti publica la línea 164 y la línea nacional 01 8000 181 164 para emergencias relacionadas con gas natural."
         }
+      },
+      {
+        "@type":"Question",
+        "name":"¿Esta página es oficial?",
+        "acceptedAnswer":{
+          "@type":"Answer",
+          "text":"No. Es una guía independiente. No solicita documentos, claves ni información personal. Para trámites oficiales visita grupovanti.com."
+        }
       }
     ]
   }
   </script>
 </head>
-
 <body>
   <a class="skip-link" href="#contenido">Ir al contenido principal</a>
-
   <div class="top-alert">
     <div class="container">
       <span aria-hidden="true">ℹ️</span>
-      <span><strong>Guía informativa independiente:</strong> este sitio no pertenece a Vanti y no recibe pagos ni datos personales.</span>
+      <span><strong>Guía informativa independiente:</strong> este sitio no pertenece a Vanti y no solicita datos personales.</span>
     </div>
   </div>
-
   <header aria-label="Navegación principal">
     <div class="container nav">
       <a class="brand" href="#inicio" aria-label="Inicio de la guía Vanti">
         <span class="brand-mark" aria-hidden="true">V</span>
         <span>Guía Vanti<small>Información independiente</small></span>
       </a>
-
       <nav class="nav-links" id="navLinks" aria-label="Secciones">
         <a href="#historia">Historia</a>
         <a href="#empresa">Empresa</a>
-        <a href="#factura">Factura</a>
-        <a href="#pagos">Cómo pagar</a>
+        <a href="#cobertura">Cobertura</a>
         <a href="#preguntas">Preguntas</a>
         <a class="nav-cta" href="https://www.grupovanti.com/" target="_blank" rel="noopener noreferrer external">Portal oficial ↗</a>
       </nav>
-
       <button class="menu-btn" id="menuBtn" aria-label="Abrir menú" aria-expanded="false" aria-controls="navLinks">☰</button>
     </div>
   </header>
-
   <main id="contenido">
     <section class="hero" id="inicio">
       <div class="container hero-grid">
         <div>
           <span class="eyebrow">Gas natural en Colombia · Guía actualizada</span>
-          <h1>Conoce a <span>Vanti</span>, su historia, su factura y sus canales oficiales</h1>
+          <h1>Conoce a <span>Vanti</span>, su historia y su cobertura</h1>
           <p class="hero-lead">
-            Una guía clara para entender qué es Grupo Vanti, cómo está conformado, qué información aparece en la factura y cómo acceder de manera segura a los medios oficiales de pago y atención.
+            Una guía clara para entender qué es Grupo Vanti, cómo está conformado y cómo acceder de manera segura a sus canales oficiales de atención.
           </p>
           <div class="hero-actions">
-            <a class="btn btn-primary" href="#pagos">Ver cómo pagar la factura</a>
-            <a class="btn btn-secondary" href="#historia">Conocer su historia</a>
+            <a class="btn btn-primary" href="#empresa">Conocer la empresa</a>
+            <a class="btn btn-secondary" href="#historia">Ver su historia</a>
           </div>
-          <p class="hero-note">No ingreses información bancaria ni números de cuenta en páginas que no sean oficiales.</p>
+          <p class="hero-note">Para trámites oficiales visita siempre grupovanti.com.</p>
         </div>
-
         <aside class="hero-card" aria-label="Accesos rápidos">
           <h2>¿Qué necesitas consultar?</h2>
           <p>Accesos informativos y enlaces verificados.</p>
           <div class="quick-list">
-            <a class="quick-link" href="#factura">
-              <span><span class="icon-dot">▤</span>Entender la factura</span><span>→</span>
+            <a class="quick-link" href="#historia">
+              <span><span class="icon-dot">📖</span>Historia de Vanti</span><span>→</span>
             </a>
-            <a class="quick-link" href="#pagos">
-              <span><span class="icon-dot">✓</span>Medios de pago</span><span>→</span>
+            <a class="quick-link" href="#empresa">
+              <span><span class="icon-dot">🏢</span>Empresas del grupo</span><span>→</span>
             </a>
             <a class="quick-link" href="#cobertura">
-              <span><span class="icon-dot">⌖</span>Cobertura y empresas</span><span>→</span>
+              <span><span class="icon-dot">⌖</span>Cobertura</span><span>→</span>
             </a>
             <a class="quick-link" href="#seguridad">
-              <span><span class="icon-dot">🔒</span>Evitar fraudes</span><span>→</span>
+              <span><span class="icon-dot">🔒</span>Canales oficiales</span><span>→</span>
             </a>
           </div>
           <div class="warning-mini">
-            Esta página no tiene formularios de pago. Los botones llevan al sitio oficial de Grupo Vanti.
+            Esta página es solo informativa. No solicita datos ni realiza trámites.
           </div>
         </aside>
       </div>
     </section>
-
     <div class="trust-strip" aria-label="Resumen de la guía">
       <div class="container trust-grid">
         <div class="trust-item"><strong>Información clara</strong><span>Contenido organizado por temas</span></div>
@@ -548,7 +467,6 @@
         <div class="trust-item"><strong>Diseño responsive</strong><span>Optimizado para móviles</span></div>
       </div>
     </div>
-
     <section class="section" id="historia">
       <div class="container split">
         <div class="media-card">
@@ -557,10 +475,9 @@
             alt="Edificios modernos que representan la evolución de una empresa de servicios públicos"
             width="1200" height="800" loading="lazy" decoding="async">
           <div class="media-caption">
-            La evolución del servicio de gas natural está ligada al crecimiento urbano, la infraestructura y la ampliación de redes.
+            La evolución del servicio de gas natural está ligada al crecimiento urbano y la ampliación de redes.
           </div>
         </div>
-
         <div class="content">
           <span class="kicker">Trayectoria empresarial</span>
           <h2>Historia de Vanti y evolución del servicio</h2>
@@ -568,9 +485,8 @@
             La historia institucional de Vanti se relaciona con el desarrollo y la expansión del gas natural domiciliario en Colombia. La compañía ha evolucionado desde la operación conocida históricamente como Gas Natural Fenosa hacia la identidad corporativa Vanti, consolidando servicios para hogares, comercios, industrias y movilidad.
           </p>
           <p>
-            Actualmente, Grupo Vanti presenta su actividad como distribución y comercialización de gas natural, acompañada por soluciones de instalación, mantenimiento, revisión periódica, atención al usuario y servicios complementarios.
+            Actualmente, Grupo Vanti presenta su actividad como distribución y comercialización de gas natural, acompañada por soluciones de instalación, mantenimiento, revisión periódica y atención al usuario.
           </p>
-
           <div class="timeline" aria-label="Resumen histórico">
             <div class="timeline-item">
               <span class="num">1</span>
@@ -582,17 +498,16 @@
             </div>
             <div class="timeline-item">
               <span class="num">3</span>
-              <div><h3>Nueva identidad Vanti</h3><p>Adopción de una marca enfocada en servicios energéticos, atención digital y nuevas soluciones.</p></div>
+              <div><h3>Nueva identidad Vanti</h3><p>Adopción de una marca enfocada en servicios energéticos y atención digital.</p></div>
             </div>
             <div class="timeline-item">
               <span class="num">4</span>
-              <div><h3>Transformación digital</h3><p>Impulso a factura digital, pagos en línea, autogestión y comercio electrónico.</p></div>
+              <div><h3>Transformación digital</h3><p>Impulso a canales de autogestión y atención en línea.</p></div>
             </div>
           </div>
         </div>
       </div>
     </section>
-
     <section class="section alt" id="empresa">
       <div class="container">
         <div class="section-head">
@@ -602,7 +517,6 @@
             Es un grupo empresarial dedicado principalmente a la distribución y comercialización de gas natural. Su operación se realiza por medio de varias sociedades prestadoras de servicios públicos.
           </p>
         </div>
-
         <div class="cards">
           <article class="card">
             <div class="card-icon" aria-hidden="true">🏙️</div>
@@ -627,7 +541,7 @@
           <article class="card">
             <div class="card-icon" aria-hidden="true">🏠</div>
             <h3>Servicios para hogares</h3>
-            <p>Nuevo servicio, revisión periódica obligatoria, mantenimiento de gasodomésticos, factura digital y canales de autogestión.</p>
+            <p>Nuevo servicio, revisión periódica obligatoria, mantenimiento de gasodomésticos y canales de autogestión.</p>
           </article>
           <article class="card">
             <div class="card-icon" aria-hidden="true">🏭</div>
@@ -635,7 +549,6 @@
             <p>Soluciones para comercios, industria, constructores y gas natural vehicular, de acuerdo con la oferta y cobertura disponible.</p>
           </article>
         </div>
-
         <div class="stats" id="cobertura">
           <div class="stat"><b>4 sociedades</b><span>Vanti, Gas Natural Cundiboyacense, Gasoriente y GasNacer.</span></div>
           <div class="stat"><b>+3,4 millones</b><span>Usuarios reportados por Grupo Vanti en información institucional.</span></div>
@@ -645,103 +558,18 @@
         <p class="source-note">Las cifras pueden cambiar. Verifica la información vigente en el portal oficial de Grupo Vanti.</p>
       </div>
     </section>
-
-    <section class="section" id="factura">
-      <div class="container bill-grid">
-        <div class="bill-image">
-          <img
-            src="https://images.ctfassets.net/3brzg7q3bvg1/4aB7WyQqwxJgZknEK7j2bQ/d4d6025aa89b5f509e1633a67b3d3a95/conocetufactura.webp?fm=webp&q=75&w=1200"
-            alt="Ejemplo visual de una factura de gas natural de Vanti"
-            width="1000" height="1000" loading="lazy" decoding="async">
-        </div>
-
-        <div>
-          <span class="kicker">Lectura de la factura</span>
-          <h2>¿Qué información debes revisar?</h2>
-          <p>
-            Antes de realizar un pago, comprueba que los datos correspondan a tu servicio. La factura reúne información de identificación, consumo, fechas, cargos y canales de atención.
-          </p>
-
-          <div class="check-list">
-            <div class="check"><i>✓</i><div><strong>Cuenta contrato</strong><span>Número que identifica al cliente activo y el servicio asociado.</span></div></div>
-            <div class="check"><i>✓</i><div><strong>Valor total a pagar</strong><span>Suma de conceptos facturados, financiaciones y valores pendientes, cuando corresponda.</span></div></div>
-            <div class="check"><i>✓</i><div><strong>Fechas importantes</strong><span>Pago oportuno, periodo facturado, emisión y posible suspensión.</span></div></div>
-            <div class="check"><i>✓</i><div><strong>Consumo y medición</strong><span>Histórico, lectura del medidor, días facturados y metros cúbicos registrados.</span></div></div>
-            <div class="check"><i>✓</i><div><strong>Revisión periódica obligatoria</strong><span>Fecha límite o avisos relacionados con la inspección de la instalación interna.</span></div></div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section alt" id="pagos">
-      <div class="container">
-        <div class="section-head">
-          <span class="kicker">Recaudo y pagos</span>
-          <h2>Cómo pagar la factura de Vanti de forma segura</h2>
-          <p>
-            Grupo Vanti informa opciones digitales y presenciales. La ruta más segura es iniciar siempre desde el portal oficial y verificar el valor antes de confirmar la transacción.
-          </p>
-        </div>
-
-        <div class="steps">
-          <article class="step">
-            <h3>Entra al portal oficial</h3>
-            <p>Escribe directamente grupovanti.com en el navegador. Evita enlaces recibidos desde mensajes desconocidos.</p>
-          </article>
-          <article class="step">
-            <h3>Elige la opción de pago</h3>
-            <p>Selecciona PSE, Botón Bancolombia u otro canal oficial disponible para tu empresa prestadora.</p>
-          </article>
-          <article class="step">
-            <h3>Verifica la cuenta</h3>
-            <p>Confirma empresa, cuenta contrato, valor, periodo y datos mostrados antes de continuar.</p>
-          </article>
-          <article class="step">
-            <h3>Guarda el comprobante</h3>
-            <p>Conserva el número de aprobación o soporte hasta que el pago aparezca aplicado.</p>
-          </article>
-        </div>
-
-        <div class="cards" style="margin-top:24px">
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">💻</div>
-            <h3>Pagos en línea</h3>
-            <p>La compañía publica botones de pago PSE y Bancolombia desde su sección oficial de pagos.</p>
-          </article>
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">🏦</div>
-            <h3>Entidades financieras</h3>
-            <p>Existen bancos y canales electrónicos aliados. La disponibilidad puede variar según la sociedad que facture el servicio.</p>
-          </article>
-          <article class="card">
-            <div class="card-icon" aria-hidden="true">🏪</div>
-            <h3>Puntos presenciales</h3>
-            <p>Vanti informa corresponsales, bancos, CADE y grandes superficies habilitadas para recaudo presencial.</p>
-          </article>
-        </div>
-
-        <div class="official-box">
-          <div>
-            <strong>Accede únicamente desde la web oficial</strong>
-            <span>El enlace abre una página externa administrada por Grupo Vanti.</span>
-          </div>
-          <a class="btn btn-primary" href="https://www.grupovanti.com/tramites-y-ayuda/factura/pagos" target="_blank" rel="noopener noreferrer external">Ir a pagos oficiales ↗</a>
-        </div>
-      </div>
-    </section>
-
     <section class="section">
       <div class="container split">
         <div class="content">
-          <span class="kicker">Factura digital y autogestión</span>
+          <span class="kicker">Atención y canales</span>
           <h2>Más opciones para administrar el servicio</h2>
           <p>
-            Los canales digitales permiten consultar información del servicio, solicitar la factura electrónica, revisar datos de facturación y acceder a trámites disponibles.
+            Los canales digitales permiten consultar información del servicio y acceder a trámites disponibles.
           </p>
           <div class="cards" style="grid-template-columns:1fr 1fr">
             <article class="card">
-              <h3>Factura electrónica</h3>
-              <p>Facilita recibir y consultar la factura desde el correo registrado, reduciendo el uso de papel.</p>
+              <h3>Atención digital</h3>
+              <p>Facilita realizar consultas y trámites desde los canales oficiales de la compañía.</p>
             </article>
             <article class="card">
               <h3>Mi Vanti en Línea</h3>
@@ -752,7 +580,6 @@
             <a class="btn" style="background:var(--navy);color:#fff" href="https://www.grupovanti.com/tramites-y-ayuda" target="_blank" rel="noopener noreferrer external">Ver trámites oficiales ↗</a>
           </p>
         </div>
-
         <div class="media-card">
           <img
             src="https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=1200&q=82"
@@ -762,7 +589,6 @@
         </div>
       </div>
     </section>
-
     <section class="section alt" id="seguridad">
       <div class="container">
         <div class="safety">
@@ -770,20 +596,18 @@
             <span class="kicker" style="color:var(--yellow)">Seguridad digital y del servicio</span>
             <h2>Protege tus datos y reconoce los canales legítimos</h2>
             <p>
-              Desconfía de páginas que imiten a Vanti y soliciten claves bancarias, códigos de verificación, documentos o pagos por cuentas personales. Un sitio informativo serio debe explicar claramente quién lo administra.
+              Desconfía de páginas que imiten a Vanti y soliciten datos personales o códigos de verificación. Un sitio informativo serio debe explicar claramente quién lo administra.
             </p>
             <a class="emergency" href="tel:164" aria-label="Llamar a la línea 164 de emergencias">☎ Emergencias de gas: 164</a>
           </div>
           <div class="safety-list">
             <div class="safety-item">✓ Comprueba que la dirección web pertenezca a <strong>grupovanti.com</strong>.</div>
-            <div class="safety-item">✓ No compartas códigos recibidos por SMS, token ni contraseñas bancarias.</div>
-            <div class="safety-item">✓ No pagues a cuentas personales ofrecidas por llamadas o mensajes.</div>
+            <div class="safety-item">✓ No compartas códigos recibidos por SMS ni contraseñas.</div>
             <div class="safety-item">✓ Ante olor a gas, evita accionar interruptores, ventila y comunícate con emergencias.</div>
           </div>
         </div>
       </div>
     </section>
-
     <section class="section" id="preguntas">
       <div class="container">
         <div class="section-head" style="text-align:center;margin-left:auto;margin-right:auto">
@@ -791,66 +615,47 @@
           <h2>Dudas comunes sobre Vanti</h2>
           <p>Respuestas rápidas basadas en la información publicada por la empresa.</p>
         </div>
-
         <div class="faq">
-          <details>
-            <summary>¿Dónde puedo pagar la factura de Vanti?</summary>
-            <p>Desde el portal oficial puedes acceder a los botones PSE y Bancolombia. También existen entidades y puntos presenciales habilitados, cuya disponibilidad depende de la sociedad que presta el servicio.</p>
-          </details>
-          <details>
-            <summary>¿Qué es la cuenta contrato?</summary>
-            <p>Es el número asignado al cliente activo para identificar el servicio. Aparece en la factura y se utiliza para consultas o pagos.</p>
-          </details>
-          <details>
-            <summary>¿Puedo pagar una factura vencida?</summary>
-            <p>Vanti informa que existen canales habilitados para facturas vencidas, aunque algunos medios electrónicos pueden tener restricciones. Consulta la opción vigente directamente en su portal.</p>
-          </details>
           <details>
             <summary>¿Qué empresas hacen parte del Grupo Vanti?</summary>
             <p>El grupo informa cuatro sociedades principales: Vanti S.A. E.S.P., Gas Natural Cundiboyacense S.A. E.S.P., Gasoriente S.A. E.S.P. y GasNacer S.A. E.S.P.</p>
           </details>
           <details>
             <summary>¿Qué es la Revisión Periódica Obligatoria?</summary>
-            <p>Es la inspección de la instalación interna de gas dentro del plazo aplicable. La factura puede mostrar la fecha relacionada con la próxima revisión.</p>
+            <p>Es la inspección de la instalación interna de gas dentro del plazo aplicable.</p>
           </details>
           <details>
-            <summary>¿Esta página es oficial o permite pagar?</summary>
-            <p>No. Es una guía independiente. No recibe pagos, no consulta cuentas contrato y no solicita documentos, claves ni información financiera.</p>
+            <summary>¿Esta página es oficial?</summary>
+            <p>No. Es una guía independiente. No solicita documentos, claves ni información personal. Para trámites oficiales visita grupovanti.com.</p>
           </details>
         </div>
       </div>
     </section>
-
     <section class="section alt" id="fuentes">
       <div class="container">
         <div class="section-head">
           <span class="kicker">Transparencia editorial</span>
           <h2>Fuentes y referencias</h2>
-          <p>La información debe revisarse periódicamente porque los canales, cifras y condiciones pueden cambiar.</p>
+          <p>La información debe revisarse periódicamente porque los canales y cifras pueden cambiar.</p>
         </div>
-
         <div class="sources">
           <h3>Enlaces institucionales consultados</h3>
           <ol>
             <li><a href="https://www.grupovanti.com/conocenos/quienes-somos/nuestra-historia" target="_blank" rel="noopener noreferrer external">Historia institucional de Grupo Vanti</a></li>
             <li><a href="https://www.grupovanti.com/conocenos/quienes-somos" target="_blank" rel="noopener noreferrer external">Quiénes somos</a></li>
             <li><a href="https://www.grupovanti.com/servicios-gas/distribucion-de-gas/cobertura" target="_blank" rel="noopener noreferrer external">Cobertura de distribución</a></li>
-            <li><a href="https://www.grupovanti.com/tramites-y-ayuda/factura/pagos" target="_blank" rel="noopener noreferrer external">Opciones oficiales de pago</a></li>
-            <li><a href="https://www.grupovanti.com/tramites-y-ayuda/factura/conoce-tu-factura" target="_blank" rel="noopener noreferrer external">Cómo entender la factura</a></li>
             <li><a href="https://www.grupovanti.com/tramites-y-ayuda" target="_blank" rel="noopener noreferrer external">Trámites y ayuda</a></li>
           </ol>
         </div>
       </div>
     </section>
-
     <section class="section" id="legal">
       <div class="container">
         <div class="section-head">
-          <span class="kicker">Buenas prácticas para publicidad</span>
+          <span class="kicker">Buenas prácticas</span>
           <h2>Información legal y editorial</h2>
           <p>Estos bloques ayudan a que el visitante entienda la naturaleza del sitio y reducen el riesgo de confusión con la empresa mencionada.</p>
         </div>
-
         <div class="legal-grid">
           <article class="legal-card">
             <h3>Aviso de independencia</h3>
@@ -858,7 +663,7 @@
           </article>
           <article class="legal-card">
             <h3>Privacidad</h3>
-            <p>Esta maqueta no recolecta datos personales. Si agregas analítica, formularios o publicidad, publica una política de privacidad real y completa.</p>
+            <p>Esta página no recolecta datos personales. Si agregas analítica o formularios, publica una política de privacidad real.</p>
           </article>
           <article class="legal-card">
             <h3>Marcas</h3>
@@ -868,14 +673,13 @@
       </div>
     </section>
   </main>
-
   <footer>
     <div class="container">
       <div class="footer-grid">
         <div>
           <h3>Guía informativa sobre Vanti</h3>
           <p>
-            Contenido independiente para orientar al usuario hacia información pública y canales oficiales. No solicitamos pagos, credenciales, documentos ni datos financieros.
+            Contenido independiente para orientar al usuario hacia información pública y canales oficiales. No solicitamos datos personales.
           </p>
         </div>
         <div>
@@ -883,8 +687,7 @@
           <ul>
             <li><a href="#historia">Historia</a></li>
             <li><a href="#empresa">Empresa y cobertura</a></li>
-            <li><a href="#factura">Cómo leer la factura</a></li>
-            <li><a href="#pagos">Medios de pago</a></li>
+            <li><a href="#preguntas">Preguntas frecuentes</a></li>
           </ul>
         </div>
         <div>
@@ -896,33 +699,27 @@
           </ul>
         </div>
       </div>
-
       <div class="footer-bottom">
         <span>© <span id="year"></span> Portal informativo independiente.</span>
         <span>Última revisión editorial: 4 de agosto de 2026.</span>
       </div>
     </div>
   </footer>
-
   <a class="floating" href="#inicio" aria-label="Volver al inicio">↑</a>
-
   <div class="cookie" id="cookieNotice" role="dialog" aria-label="Aviso de cookies">
     <p>
-      Esta maqueta solo guarda una preferencia técnica en tu navegador para cerrar este aviso. Al publicar anuncios o analítica, adapta el consentimiento a las herramientas que realmente utilices.
+      Esta página solo guarda una preferencia técnica en tu navegador para cerrar este aviso.
     </p>
     <button id="cookieAccept" type="button">Entendido</button>
   </div>
-
   <script>
     const menuBtn = document.getElementById('menuBtn');
     const navLinks = document.getElementById('navLinks');
-
     menuBtn.addEventListener('click', () => {
       const open = navLinks.classList.toggle('open');
       menuBtn.setAttribute('aria-expanded', String(open));
       menuBtn.textContent = open ? '✕' : '☰';
     });
-
     navLinks.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => {
         navLinks.classList.remove('open');
@@ -930,9 +727,7 @@
         menuBtn.textContent = '☰';
       });
     });
-
     document.getElementById('year').textContent = new Date().getFullYear();
-
     const cookieNotice = document.getElementById('cookieNotice');
     const cookieAccept = document.getElementById('cookieAccept');
     if (!localStorage.getItem('guiaVantiNotice')) {
